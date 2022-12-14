@@ -406,7 +406,7 @@
         font-weight: normal;
         position: absolute;
         left: 50%;
-        top: 25%;
+        top: 15%;
         transform: translate(-50%, -70%);
         text-decoration-line: none;
     }
@@ -421,7 +421,7 @@
         font-weight: normal;
         position: absolute;
         left: 50%;
-        top: 37%;
+        top: 27%;
         transform: translate(-50%, -70%);
         text-decoration-line: none;
     }
@@ -436,7 +436,7 @@
         font-weight: normal;
         position: absolute;
         left: 50%;
-        top: 49%;
+        top: 39%;
         transform: translate(-50%, -70%);
         text-decoration-line: none;
     }
@@ -451,7 +451,7 @@
         font-weight: normal;
         position: absolute;
         left: 50%;
-        top: 61%;
+        top: 51%;
         transform: translate(-50%, -70%);
         text-decoration-line: none;
     }
