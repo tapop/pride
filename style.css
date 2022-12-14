@@ -1,15 +1,15 @@
 @font-face {
     font-family: 'NEXON Lv1 Gothic OTF Light';
-    src: url(./NEXON\ Lv1\ Gothic\ OTF\ Light.woff);
+    src: url(../NEXON\ Lv1\ Gothic\ OTF\ Light.woff);
 }
 
 @font-face {
     font-family: 'NEXON Lv2 Gothic Light';
-    src: url(./NEXON\ Lv2\ Gothic\ Light.woff);
+    src: url(../NEXON\ Lv2\ Gothic\ Light.woff);
 }
 
 /* 휴대폰 */
-@media (max-width: 720px) {
+@media (min-width: 720px) and (max-width: 1023px) {
     a{
         font-family: 'NEXON Lv1 Gothic OTF Light';
         color: black;
@@ -182,7 +182,7 @@
   }
 
 /* 1024 */
-@media (max-width: 1024px) {
+@media (min-width: 1024px) and (max-width: 1333px) {
     a{
         font-family: 'NEXON Lv1 Gothic OTF Light';
         color: black;
@@ -355,7 +355,7 @@
   }
 
 /* 중간 */
-@media (max-width: 1334px) {
+@media (min-width: 1334px) and (max-width: 1599px) {
     a{
         font-family: 'NEXON Lv1 Gothic OTF Light';
         color: black;
@@ -528,7 +528,7 @@
   }
 
 /* 2번째로 큰 사이즈 */
-@media (max-width: 1600px) {
+@media (min-width: 1600px) and (max-width: 1919px) {
     a{
         font-family: 'NEXON Lv1 Gothic OTF Light';
         color: black;
@@ -701,7 +701,7 @@
   }
 
 /* 가장 큰 사이즈*/
-@media (max-width: 1920px) {
+@media (min-width: 1920px) {
     a{
         font-family: 'NEXON Lv1 Gothic OTF Light';
         color: black;
@@ -867,7 +867,7 @@
     img {
         width: 4rem;
         position: absolute;
-        left: 28.5%;
+        left: 25.5%;
         top: 95.3%;
         transform: translate(-50%, -70%);
     }
