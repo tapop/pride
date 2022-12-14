@@ -60,7 +60,7 @@
         font-weight: normal;
         position: absolute;
         left: 50%;
-        top: 10%;
+        top: 20%;
         transform: translate(-50%, -70%);
         text-decoration-line: none;
     }
@@ -75,7 +75,7 @@
         font-weight: normal;
         position: absolute;
         left: 50%;
-        top: 27%;
+        top: 33%;
         transform: translate(-50%, -70%);
         text-decoration-line: none;
     }
@@ -90,7 +90,7 @@
         font-weight: normal;
         position: absolute;
         left: 50%;
-        top: 39%;
+        top: 47%;
         transform: translate(-50%, -70%);
         text-decoration-line: none;
     }
@@ -105,7 +105,7 @@
         font-weight: normal;
         position: absolute;
         left: 50%;
-        top: 51%;
+        top: 59%;
         transform: translate(-50%, -70%);
         text-decoration-line: none;
     }
@@ -694,8 +694,8 @@
     img {
         width: 4rem;
         position: absolute;
-        left: 28.5%;
-        top: 95.3%;
+        left: 31.5%;
+        top: 95%;
         transform: translate(-50%, -70%);
     }
   }
@@ -867,13 +867,13 @@
     img {
         width: 4rem;
         position: absolute;
-        left: 23.5%;
-        top: 95.3%;
+        left: 34%;
+        top: 94.8%;
         transform: translate(-50%, -70%);
     }
   }
 
-/* 가장 큰 사이즈*/
+/* 휴대폰 */
 @media (min-height: 1920px) and (max-width: 2000px) {
     a{
         font-family: 'NEXON Lv1 Gothic OTF Light';
@@ -925,7 +925,7 @@
         font-weight: normal;
         position: absolute;
         left: 50%;
-        top: 25%;
+        top: 18%;
         transform: translate(-50%, -70%);
         text-decoration-line: none;
     }
@@ -940,7 +940,7 @@
         font-weight: normal;
         position: absolute;
         left: 50%;
-        top: 37%;
+        top: 30%;
         transform: translate(-50%, -70%);
         text-decoration-line: none;
     }
@@ -955,7 +955,7 @@
         font-weight: normal;
         position: absolute;
         left: 50%;
-        top: 49%;
+        top: 42%;
         transform: translate(-50%, -70%);
         text-decoration-line: none;
     }
@@ -970,7 +970,7 @@
         font-weight: normal;
         position: absolute;
         left: 50%;
-        top: 61%;
+        top: 54%;
         transform: translate(-50%, -70%);
         text-decoration-line: none;
     }
@@ -1040,8 +1040,8 @@
     img {
         width: 4rem;
         position: absolute;
-        left: 23.5%;
-        top: 95.3%;
+        left: 20.5%;
+        top: 93.5%;
         transform: translate(-50%, -70%);
     }
   }
