@@ -8,8 +8,24 @@
     src: url(./NEXON\ Lv2\ Gothic\ Light.woff);
 }
 
-/* 휴대폰 */
-@media (max-width: 720px) {
+/*
+iPhone 13
+width: 399
+height: 844
+
+iPad Pro 12.9 (Gen. 5)
+width: 1024
+height: 1366
+
+360 - 719
+720 - 1023
+1024 - 1333
+1334 - 1559
+1600 - 1919
+1920 -
+*/
+
+@media (min-width: 360px) and (max-width: 719px) {
     a{
         font-family: 'NEXON Lv1 Gothic OTF Light';
         color: black;
@@ -60,7 +76,7 @@
         font-weight: normal;
         position: absolute;
         left: 50%;
-        top: 20%;
+        top: 15%;
         transform: translate(-50%, -70%);
         text-decoration-line: none;
     }
@@ -75,7 +91,7 @@
         font-weight: normal;
         position: absolute;
         left: 50%;
-        top: 33%;
+        top: 28%;
         transform: translate(-50%, -70%);
         text-decoration-line: none;
     }
@@ -90,7 +106,7 @@
         font-weight: normal;
         position: absolute;
         left: 50%;
-        top: 47%;
+        top: 42%;
         transform: translate(-50%, -70%);
         text-decoration-line: none;
     }
@@ -105,7 +121,7 @@
         font-weight: normal;
         position: absolute;
         left: 50%;
-        top: 59%;
+        top: 54%;
         transform: translate(-50%, -70%);
         text-decoration-line: none;
     }
@@ -175,14 +191,14 @@
     img {
         width: 4rem;
         position: absolute;
-        left: 28.5%;
-        top: 95.3%;
+        left: 22.5%;
+        top: 93.3%;
         transform: translate(-50%, -70%);
     }
   }
 
 /* 1024 */
-@media (min-width: 721px) and (max-width: 1333px) {
+@media (min-width: 720px) and (max-width: 1023px) {
     a{
         font-family: 'NEXON Lv1 Gothic OTF Light';
         color: black;
@@ -355,7 +371,7 @@
   }
 
 /* 중간 */
-@media (min-width: 1334px) and (max-width: 1599px) {
+@media (min-width: 1024px) and (max-width: 1333px) {
     a{
         font-family: 'NEXON Lv1 Gothic OTF Light';
         color: black;
@@ -480,7 +496,7 @@
         font-weight: normal;
         position: absolute;
         left: 50%;
-        top: 74%;
+        top: 75%;
         transform: translate(-50%, -70%);
         text-decoration-line: none;
         white-space: nowrap;
@@ -496,7 +512,7 @@
         font-weight: normal;
         position: absolute;
         left: 50%;
-        top: 83%;
+        top: 84%;
         transform: translate(-50%, -70%);
         text-decoration-line: none;
         white-space: nowrap;
@@ -512,7 +528,7 @@
         font-weight: normal;
         position: absolute;
         left: 50%;
-        top: 92%;
+        top: 93%;
         transform: translate(-50%, -70%);
         text-decoration-line: none;
         white-space: nowrap;
@@ -521,14 +537,14 @@
     img {
         width: 4rem;
         position: absolute;
-        left: 27.5%;
+        left: 24.5%;
         top: 95.3%;
         transform: translate(-50%, -70%);
     }
   }
 
 /* 2번째로 큰 사이즈 */
-@media (min-width: 1600px) and (max-width: 1919px) {
+@media (min-width: 1334px) and (max-width: 1559px) {
     a{
         font-family: 'NEXON Lv1 Gothic OTF Light';
         color: black;
@@ -700,8 +716,8 @@
     }
   }
 
-/* 가장 큰 사이즈*/
-@media (min-width: 1920px) {
+
+@media (min-width: 1600px) and (max-width: 1919px) {
     a{
         font-family: 'NEXON Lv1 Gothic OTF Light';
         color: black;
@@ -867,14 +883,15 @@
     img {
         width: 4rem;
         position: absolute;
-        left: 34%;
-        top: 94.8%;
+        left: 32%;
+        top: 94.3%;
         transform: translate(-50%, -70%);
     }
   }
 
+
 /* 휴대폰 */
-@media (min-height: 1920px) and (max-width: 2000px) {
+@media (min-width: 1920px) {
     a{
         font-family: 'NEXON Lv1 Gothic OTF Light';
         color: black;
@@ -1045,6 +1062,7 @@
         transform: translate(-50%, -70%);
     }
   }
+
 /*
 반복문 scss - mixin 이용해서 좀 고치기
 */
