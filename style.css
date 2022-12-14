@@ -196,8 +196,9 @@ height: 1366
         width: 4rem;
         position: absolute;
         left: 17.5%;
-        top: 9.5%;
+        top: 8.5%;
         transform: translate(-50%, -70%);
+        white-space: nowrap;
     }
   }
 
@@ -369,8 +370,9 @@ height: 1366
         width: 4rem;
         position: absolute;
         left: 14.5%;
-        top: 95%;
+        top: 94%;
         transform: translate(-50%, -70%);
+        white-space: nowrap;
     }
   }
 
@@ -652,7 +654,7 @@ height: 1366
     .jb-division-line2 {
         position: absolute;
         left: 50%;
-        top: 53%;
+        top: 52%;
         margin-top: 11em;
         margin-bottom: 0.67em;
         margin-left: 0;
@@ -825,7 +827,7 @@ height: 1366
     .jb-division-line2 {
         position: absolute;
         left: 50%;
-        top: 54%;
+        top: 53%;
         margin-top: 11em;
         margin-bottom: 0.67em;
         margin-left: 0;
