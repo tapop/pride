@@ -79,6 +79,7 @@ height: 1366
         top: 5%;
         transform: translate(-50%, -70%);
         text-decoration-line: none;
+        white-space: nowrap;
     }
     
     #h3{
@@ -91,9 +92,10 @@ height: 1366
         font-weight: normal;
         position: absolute;
         left: 50%;
-        top: 18%;
+        top: 28%;
         transform: translate(-50%, -70%);
         text-decoration-line: none;
+        white-space: nowrap;
     }
     
     #h4{
@@ -109,6 +111,7 @@ height: 1366
         top: 32%;
         transform: translate(-50%, -70%);
         text-decoration-line: none;
+        white-space: nowrap;
     }
     
     #h5{
@@ -124,6 +127,7 @@ height: 1366
         top: 44%;
         transform: translate(-50%, -70%);
         text-decoration-line: none;
+        white-space: nowrap;
     }
     
     .jb-division-line2 {
@@ -710,8 +714,8 @@ height: 1366
     img {
         width: 4rem;
         position: absolute;
-        left: 31.5%;
-        top: 95%;
+        left: 19.5%;
+        top: 92.3%;
         transform: translate(-50%, -70%);
     }
   }
@@ -845,6 +849,7 @@ height: 1366
         top: 74%;
         transform: translate(-50%, -70%);
         text-decoration-line: none;
+        white-space: nowrap;
     }
     
     #h7{
@@ -860,6 +865,7 @@ height: 1366
         top: 83%;
         transform: translate(-50%, -70%);
         text-decoration-line: none;
+        white-space: nowrap;
     }
     
     #h8{
@@ -875,6 +881,7 @@ height: 1366
         top: 92%;
         transform: translate(-50%, -70%);
         text-decoration-line: none;
+        white-space: nowrap;
     }
     
     img {
