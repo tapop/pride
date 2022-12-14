@@ -233,7 +233,7 @@
         font-weight: normal;
         position: absolute;
         left: 50%;
-        top: 20%;
+        top: 25.5%;
         transform: translate(-50%, -70%);
         text-decoration-line: none;
     }
@@ -248,7 +248,7 @@
         font-weight: normal;
         position: absolute;
         left: 50%;
-        top: 27%;
+        top: 37%;
         transform: translate(-50%, -70%);
         text-decoration-line: none;
     }
@@ -263,7 +263,7 @@
         font-weight: normal;
         position: absolute;
         left: 50%;
-        top: 39%;
+        top: 49%;
         transform: translate(-50%, -70%);
         text-decoration-line: none;
     }
@@ -278,7 +278,7 @@
         font-weight: normal;
         position: absolute;
         left: 50%;
-        top: 51%;
+        top: 61%;
         transform: translate(-50%, -70%);
         text-decoration-line: none;
     }
@@ -348,7 +348,7 @@
     img {
         width: 4rem;
         position: absolute;
-        left: 28.5%;
+        left: 23.2%;
         top: 95.3%;
         transform: translate(-50%, -70%);
     }
@@ -406,7 +406,7 @@
         font-weight: normal;
         position: absolute;
         left: 50%;
-        top: 15%;
+        top: 25%;
         transform: translate(-50%, -70%);
         text-decoration-line: none;
     }
@@ -421,7 +421,7 @@
         font-weight: normal;
         position: absolute;
         left: 50%;
-        top: 27%;
+        top: 37%;
         transform: translate(-50%, -70%);
         text-decoration-line: none;
     }
@@ -436,7 +436,7 @@
         font-weight: normal;
         position: absolute;
         left: 50%;
-        top: 39%;
+        top: 49%;
         transform: translate(-50%, -70%);
         text-decoration-line: none;
     }
@@ -451,7 +451,7 @@
         font-weight: normal;
         position: absolute;
         left: 50%;
-        top: 51%;
+        top: 61%;
         transform: translate(-50%, -70%);
         text-decoration-line: none;
     }
@@ -521,7 +521,7 @@
     img {
         width: 4rem;
         position: absolute;
-        left: 28.5%;
+        left: 27.5%;
         top: 95.3%;
         transform: translate(-50%, -70%);
     }
@@ -826,7 +826,7 @@
         font-weight: normal;
         position: absolute;
         left: 50%;
-        top: 75%;
+        top: 74%;
         transform: translate(-50%, -70%);
         text-decoration-line: none;
         white-space: nowrap;
@@ -842,7 +842,7 @@
         font-weight: normal;
         position: absolute;
         left: 50%;
-        top: 84%;
+        top: 83%;
         transform: translate(-50%, -70%);
         text-decoration-line: none;
         white-space: nowrap;
@@ -858,7 +858,7 @@
         font-weight: normal;
         position: absolute;
         left: 50%;
-        top: 93%;
+        top: 92%;
         transform: translate(-50%, -70%);
         text-decoration-line: none;
         white-space: nowrap;
