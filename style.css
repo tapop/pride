@@ -76,7 +76,7 @@ height: 1366
         font-weight: normal;
         position: absolute;
         left: 50%;
-        top: 15%;
+        top: 5%;
         transform: translate(-50%, -70%);
         text-decoration-line: none;
     }
@@ -91,7 +91,7 @@ height: 1366
         font-weight: normal;
         position: absolute;
         left: 50%;
-        top: 28%;
+        top: 18%;
         transform: translate(-50%, -70%);
         text-decoration-line: none;
     }
@@ -106,7 +106,7 @@ height: 1366
         font-weight: normal;
         position: absolute;
         left: 50%;
-        top: 42%;
+        top: 32%;
         transform: translate(-50%, -70%);
         text-decoration-line: none;
     }
@@ -121,7 +121,7 @@ height: 1366
         font-weight: normal;
         position: absolute;
         left: 50%;
-        top: 54%;
+        top: 44%;
         transform: translate(-50%, -70%);
         text-decoration-line: none;
     }
@@ -191,8 +191,8 @@ height: 1366
     img {
         width: 4rem;
         position: absolute;
-        left: 22.5%;
-        top: 93.3%;
+        left: 19.5%;
+        top: 92.3%;
         transform: translate(-50%, -70%);
     }
   }
@@ -537,7 +537,7 @@ height: 1366
     img {
         width: 4rem;
         position: absolute;
-        left: 24.5%;
+        left: 21.5%;
         top: 95.3%;
         transform: translate(-50%, -70%);
     }
@@ -881,7 +881,7 @@ height: 1366
         width: 4rem;
         position: absolute;
         left: 6.5%;
-        top: 95.3%;
+        top: 95.7%;
         transform: translate(-50%, -70%);
     }
   }
