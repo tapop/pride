@@ -724,7 +724,7 @@ height: 1366
         font-weight: 700;
         font-size: 117;
         position: absolute;
-        left: 50%;
+        left: 10%;
         top: 20%;
         transform: translate(-59%, -70%);
     }
@@ -738,7 +738,7 @@ height: 1366
         margin-right: 0;
         font-weight: bold;
         position: absolute;
-        left: 50%;
+        left: 25%;
         top: 3%;
         transform: translate(-50%, -70%);
         text-decoration-line: none;
@@ -746,7 +746,7 @@ height: 1366
     
     .jb-division-line {
         position: absolute;
-        left: 50%;
+        left: 25%;
         top: 3%;
         margin-top: 11em;
         margin-bottom: 0.67em;
@@ -767,7 +767,7 @@ height: 1366
         margin-right: 0;
         font-weight: normal;
         position: absolute;
-        left: 50%;
+        left: 6%;
         top: 25%;
         transform: translate(-50%, -70%);
         text-decoration-line: none;
@@ -782,7 +782,7 @@ height: 1366
         margin-right: 0;
         font-weight: normal;
         position: absolute;
-        left: 50%;
+        left: 10.5%;
         top: 37%;
         transform: translate(-50%, -70%);
         text-decoration-line: none;
@@ -797,7 +797,7 @@ height: 1366
         margin-right: 0;
         font-weight: normal;
         position: absolute;
-        left: 50%;
+        left: 9%;
         top: 49%;
         transform: translate(-50%, -70%);
         text-decoration-line: none;
@@ -812,7 +812,7 @@ height: 1366
         margin-right: 0;    
         font-weight: normal;
         position: absolute;
-        left: 50%;
+        left: 9%;
         top: 61%;
         transform: translate(-50%, -70%);
         text-decoration-line: none;
@@ -820,8 +820,8 @@ height: 1366
     
     .jb-division-line2 {
         position: absolute;
-        left: 50%;
-        top: 53%;
+        left: 25%;
+        top: 54%;
         margin-top: 11em;
         margin-bottom: 0.67em;
         margin-left: 0;
@@ -841,11 +841,10 @@ height: 1366
         margin-right: 0;
         font-weight: normal;
         position: absolute;
-        left: 50%;
+        left: 22.5%;
         top: 74%;
         transform: translate(-50%, -70%);
         text-decoration-line: none;
-        white-space: nowrap;
     }
     
     #h7{
@@ -857,11 +856,10 @@ height: 1366
         margin-right: 0;
         font-weight: normal;
         position: absolute;
-        left: 50%;
+        left: 23.6%;
         top: 83%;
         transform: translate(-50%, -70%);
         text-decoration-line: none;
-        white-space: nowrap;
     }
     
     #h8{
@@ -873,18 +871,17 @@ height: 1366
         margin-right: 0;
         font-weight: normal;
         position: absolute;
-        left: 50%;
+        left: 25.2%;
         top: 92%;
         transform: translate(-50%, -70%);
         text-decoration-line: none;
-        white-space: nowrap;
     }
     
     img {
         width: 4rem;
         position: absolute;
-        left: 32%;
-        top: 94.3%;
+        left: 6.5%;
+        top: 95.3%;
         transform: translate(-50%, -70%);
     }
   }
