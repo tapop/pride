@@ -195,8 +195,8 @@ height: 1366
     img {
         width: 4rem;
         position: absolute;
-        left: 17.3%;
-        top: 93%;
+        left: 17.5%;
+        top: 9.5%;
         transform: translate(-50%, -70%);
     }
   }
@@ -368,8 +368,8 @@ height: 1366
     img {
         width: 4rem;
         position: absolute;
-        left: 14.2%;
-        top: 93%;
+        left: 14.5%;
+        top: 95%;
         transform: translate(-50%, -70%);
     }
   }
