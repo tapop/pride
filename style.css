@@ -8,18 +8,6 @@
     src: url(./NEXON\ Lv2\ Gothic\ Light.woff);
 }
 
-@mixin h_style{
-    display: block;
-    font-size: 4rem;
-    margin-top: 0.67em;
-    margin-bottom: 0.67em;
-    margin-left: 0;
-    margin-right: 0;
-    font-weight: normal;
-    position: absolute;
-    transform: translate(-50%, -70%);
-}
-
 
 a{
     font-family: 'NEXON Lv1 Gothic OTF Light';
@@ -27,7 +15,7 @@ a{
     font-weight: 700;
     font-size: 117;
     position: absolute;
-    left: 10%;
+    left: 50%;
     top: 20%;
     transform: translate(-59%, -70%);
 }
@@ -41,7 +29,7 @@ a{
     margin-right: 0;
     font-weight: bold;
     position: absolute;
-    left: 25%;
+    left: 50%;
     top: 3%;
     transform: translate(-50%, -70%);
     text-decoration-line: none;
@@ -49,7 +37,7 @@ a{
 
 .jb-division-line {
     position: absolute;
-    left: 25%;
+    left: 50%;
     top: 3%;
     margin-top: 11em;
     margin-bottom: 0.67em;
@@ -70,7 +58,7 @@ a{
     margin-right: 0;
     font-weight: normal;
     position: absolute;
-    left: 6%;
+    left: 50%;
     top: 25%;
     transform: translate(-50%, -70%);
     text-decoration-line: none;
@@ -85,7 +73,7 @@ a{
     margin-right: 0;
     font-weight: normal;
     position: absolute;
-    left: 10.5%;
+    left: 50%;
     top: 37%;
     transform: translate(-50%, -70%);
     text-decoration-line: none;
@@ -100,7 +88,7 @@ a{
     margin-right: 0;
     font-weight: normal;
     position: absolute;
-    left: 9%;
+    left: 50%;
     top: 49%;
     transform: translate(-50%, -70%);
     text-decoration-line: none;
@@ -115,7 +103,7 @@ a{
     margin-right: 0;    
     font-weight: normal;
     position: absolute;
-    left: 9%;
+    left: 50%;
     top: 61%;
     transform: translate(-50%, -70%);
     text-decoration-line: none;
@@ -123,7 +111,7 @@ a{
 
 .jb-division-line2 {
     position: absolute;
-    left: 25%;
+    left: 50%;
     top: 54%;
     margin-top: 11em;
     margin-bottom: 0.67em;
@@ -144,10 +132,11 @@ a{
     margin-right: 0;
     font-weight: normal;
     position: absolute;
-    left: 22.5%;
+    left: 50%;
     top: 74%;
     transform: translate(-50%, -70%);
     text-decoration-line: none;
+    white-space: nowrap;
 }
 
 #h7{
@@ -159,10 +148,11 @@ a{
     margin-right: 0;
     font-weight: normal;
     position: absolute;
-    left: 23.6%;
+    left: 50%;
     top: 83%;
     transform: translate(-50%, -70%);
     text-decoration-line: none;
+    white-space: nowrap;
 }
 
 #h8{
@@ -174,16 +164,17 @@ a{
     margin-right: 0;
     font-weight: normal;
     position: absolute;
-    left: 25.2%;
+    left: 50%;
     top: 92%;
     transform: translate(-50%, -70%);
     text-decoration-line: none;
+    white-space: nowrap;
 }
 
 img {
     width: 4rem;
     position: absolute;
-    left: 6.5%;
+    left: 28.5%;
     top: 95.3%;
     transform: translate(-50%, -70%);
 }
