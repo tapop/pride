@@ -76,7 +76,7 @@ height: 1366
         font-weight: normal;
         position: absolute;
         left: 50%;
-        top: 5%;
+        top: 18%;
         transform: translate(-50%, -70%);
         text-decoration-line: none;
         white-space: nowrap;
@@ -92,7 +92,7 @@ height: 1366
         font-weight: normal;
         position: absolute;
         left: 50%;
-        top: 28%;
+        top: 24%;
         transform: translate(-50%, -70%);
         text-decoration-line: none;
         white-space: nowrap;
@@ -108,7 +108,7 @@ height: 1366
         font-weight: normal;
         position: absolute;
         left: 50%;
-        top: 32%;
+        top: 28%;
         transform: translate(-50%, -70%);
         text-decoration-line: none;
         white-space: nowrap;
@@ -124,7 +124,7 @@ height: 1366
         font-weight: normal;
         position: absolute;
         left: 50%;
-        top: 44%;
+        top: 32%;
         transform: translate(-50%, -70%);
         text-decoration-line: none;
         white-space: nowrap;
@@ -374,7 +374,7 @@ height: 1366
     }
   }
 
-/* 중간 */
+/* iPad */
 @media (min-width: 1024px) and (max-width: 1333px) {
     a{
         font-family: 'NEXON Lv1 Gothic OTF Light';
@@ -547,7 +547,7 @@ height: 1366
     }
   }
 
-/* 2번째로 큰 사이즈 */
+/* 2번째로 큰 사이즈 iPad2 */
 @media (min-width: 1334px) and (max-width: 1559px) {
     a{
         font-family: 'NEXON Lv1 Gothic OTF Light';
@@ -714,13 +714,13 @@ height: 1366
     img {
         width: 4rem;
         position: absolute;
-        left: 19.5%;
-        top: 92.3%;
+        left: 21.5%;
+        top: 91%;
         transform: translate(-50%, -70%);
     }
   }
 
-
+/* PC */
 @media (min-width: 1600px) and (max-width: 1919px) {
     a{
         font-family: 'NEXON Lv1 Gothic OTF Light';
