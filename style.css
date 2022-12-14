@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'NEXON Lv1 Gothic OTF Light';
-    src: url(../NEXON\ Lv1\ Gothic\ OTF\ Light.woff);
+    src: url(./NEXON\ Lv1\ Gothic\ OTF\ Light.woff);
 }
 
 @font-face {
     font-family: 'NEXON Lv2 Gothic Light';
-    src: url(../NEXON\ Lv2\ Gothic\ Light.woff);
+    src: url(./NEXON\ Lv2\ Gothic\ Light.woff);
 }
 
 @mixin h_style{
