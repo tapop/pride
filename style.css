@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'NEXON Lv1 Gothic OTF Light';
-    src: url(./NEXON\ Lv1\ Gothic\ OTF\ Light.woff);
+    src: url(../NEXON\ Lv1\ Gothic\ OTF\ Light.woff);
 }
 
 @font-face {
     font-family: 'NEXON Lv2 Gothic Light';
-    src: url(./NEXON\ Lv2\ Gothic\ Light.woff);
+    src: url(../NEXON\ Lv2\ Gothic\ Light.woff);
 }
 
 /*
@@ -195,7 +195,7 @@ height: 1366
     img {
         width: 4rem;
         position: absolute;
-        left: 17.5%;
+        left: 17%;
         top: 8.5%;
         transform: translate(-50%, -70%);
         white-space: nowrap;
